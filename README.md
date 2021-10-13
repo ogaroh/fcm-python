@@ -1,5 +1,6 @@
-Author: Erick Ogaro, 2021
-Steps to run:
+# FCM push notification service with Python
+## Author: Erick Ogaro, 2021
+### Steps to run:
 
 1.  Download the service key (JSON) for your FCM project in Firebase
 2.  Run `pip install firebase-admin` in your project's virtual env
