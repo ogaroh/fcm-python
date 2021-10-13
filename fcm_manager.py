@@ -8,7 +8,7 @@ cred = credentials.Certificate(
 firebase_admin.initialize_app(cred)
 
 
-# function to send a multicast message with custom data
+# function to send a push notification with custom data
 def send_push_notification(title, body, screen, tokens):
     # See documentation on defining a message payload.
     message = messaging.MulticastMessage(
