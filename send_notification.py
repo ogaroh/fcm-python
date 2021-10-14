@@ -10,7 +10,6 @@ import fcm_manager as fcm
 fcm_tokens = [
     "f5c5ZdvfTZa9K5zc_BkTCY:APA91bFeEM8YySUhTGRsAm5yEuXbJTjZr_TXfEOlMGrgOsMqt1K1bcz2sj2fg_bOhtQMuRh45Qi9v-aZV-Uakx4SjZI0DYScBKIPl1yh88BmuBjDgDrOniFx34hyg_FwRuv4j6TWMFyr"]
 
-
 # request for input from the console to send a custom string
 title = input("Enter notification title: ")
 body = input("Enter notification body: ")
