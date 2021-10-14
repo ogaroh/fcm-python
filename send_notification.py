@@ -8,7 +8,7 @@ import fcm_manager as fcm
 # Then we'll query the token(s) from our database any time we want to send a push notification
 
 fcm_tokens = [
-    "ea4OEUB1SvadeJaO7qWVXK:APA91bFIFCs2XgzvVyEw3xaBqslRB3YrpUbhtNtzSgPQnZ5fvhwM0zDjn4NfmuyjhtDOhaLjEgfHcBhWP2hgILXiQi_5eK__tnKpqDJHBveasCSyA-B4ul5qErx6uQ53wDRAkWvh21cw"]
+    "f5c5ZdvfTZa9K5zc_BkTCY:APA91bFeEM8YySUhTGRsAm5yEuXbJTjZr_TXfEOlMGrgOsMqt1K1bcz2sj2fg_bOhtQMuRh45Qi9v-aZV-Uakx4SjZI0DYScBKIPl1yh88BmuBjDgDrOniFx34hyg_FwRuv4j6TWMFyr"]
 
 
 # request for input from the console to send a custom string
