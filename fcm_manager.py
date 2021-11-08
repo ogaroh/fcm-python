@@ -3,7 +3,7 @@ from firebase_admin import credentials, messaging
 
 # replace this path with your own
 cred = credentials.Certificate(
-    "/Users/sibasi/dev-tools/firebase-admin/service-keys/ax-service-account-key.json"
+    "/Users/sibasi/dev-tools/firebase-admin/service-keys/greenspoon-service-account-key.json"
 )
 firebase_admin.initialize_app(cred)
 
